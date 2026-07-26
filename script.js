@@ -184,7 +184,7 @@ const allWords = [
 {word:"boyun",correct:"cuello"},
 {word:"bozuk para",correct:"monedas / dinero suelto"},
 {word:"çamaşır makinesi",correct:"lavadora"},
-{word:"çene",correct:"barbilla / mentón / mandíbula"},
+{word:"çene",correct:"barbilla"},
 {word:"çift",correct:"pareja / par / doble"},
 {word:"fayda",correct:"beneficio / utilidad / ventaja"},
 {word:"fiziksel",correct:"físico"},
